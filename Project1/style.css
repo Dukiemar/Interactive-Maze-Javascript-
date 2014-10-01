@@ -1,0 +1,52 @@
+body{background-color: gainsboro}
+h4{color: blue;font-family:Verdana, Geneva, sans-serif;font-style:italic ;}
+img{ position:absolute;
+	right:50px;
+	top:190px;
+
+    }
+h2{text-align: center;font-family: serif;font-size: 65px}
+
+h3{text-align:center;font-size:18px;}
+
+#p1{
+	height: 300px;
+	width: 300px;
+	border-radius: 15px;
+	background-color: none;
+	float: left;
+	position:absolute;
+	left:50px;
+	top:190px;
+	font-size: 18px
+	}
+
+	
+
+#one {
+	background-color: beige;
+}
+
+#p2{display:inline; }
+
+
+
+
+
+two {
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
+	width: 280px;
+	float:left;
+	
+}
+
+p2{
+		height:100px;
+	    width:100px;
+	    float:right;
+	    position:absolute;
+	    right:50px;
+	    top:390px; 
+	   }
+
