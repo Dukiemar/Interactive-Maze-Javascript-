@@ -1,4 +1,5 @@
 
+
 function StaffMember(name,discountPercent){
     this.name = name;
     this.discountPercent = discountPercent;
